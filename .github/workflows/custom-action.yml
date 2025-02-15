@@ -1,3 +1,4 @@
+name: Custom  action WF
 on: [push]
 
 jobs:
